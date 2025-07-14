@@ -19,6 +19,3 @@ This project showcases an interactive Power BI dashboard that provides key insig
 - Microsoft Power BI  
 - Microsoft Excel  
 
-## 📷 Dashboard Preview
-![Dashboard Preview](Ecommerce_Dashboard.png)
-
