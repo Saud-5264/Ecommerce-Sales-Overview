@@ -17,5 +17,7 @@ This project showcases an interactive Power BI dashboard that provides key insig
 
 ## 🛠 Tools Used
 - Microsoft Power BI  
-- Microsoft Excel  
+- Microsoft Excel
+
+📬 Contact: Syed Saud Waqar, Email: syedsaudwaqar@gmail.com LinkedIn: https://www.linkedin.com/in/syed-saud-waqar-abc  
 
